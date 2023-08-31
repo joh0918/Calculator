@@ -25,10 +25,6 @@ This is a basic calculator web application created to demonstrate HTML, CSS, and
 - Backspace button to delete the last digit.
 - Equals button to calculate and display the result.
 
-## Demo
-
-You can see a live demo of the calculator app [here](#). (Replace with the link to your live demo if available)
-
 ## Installation
 
 1. Clone the repository or download the ZIP file.
