@@ -51,5 +51,5 @@ Please ensure your pull request follows the project's coding conventions and sta
 
 ## Credits
 
-This project was inspired by and created as part of a tutorial by the YouTube channel [ASMRProg](#). (Replace with the link to ASMRProg's channel)
+This project was inspired by and created as part of a tutorial by the YouTube channel [ASMRProg](https://www.youtube.com/@AsmrProg).
 
